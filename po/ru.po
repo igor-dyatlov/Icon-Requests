@@ -10,10 +10,10 @@ msgstr ""
 "POT-Creation-Date: 2017-03-21 12:13+0100\n"
 "PO-Revision-Date: 2018-06-07 16:43+0300\n"
 "Last-Translator: Igor Dyatlov <dyatlov.igor@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ru\n"
+"Language-Team: Igor Dyatlov <dyatlov.igor@gmail.com>\n"
+"Language: ru_RU\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: IconRequests/application.py:21 data/icon-requests.desktop.in:3
@@ -38,7 +38,7 @@ msgstr "Запрос"
 
 #: IconRequests/widgets/application_row.py:94
 msgid "Fix"
-msgstr "Исправления"
+msgstr "Исправить"
 
 #: IconRequests/widgets/application_row.py:137
 msgid "Please check your connexion"
@@ -82,7 +82,7 @@ msgstr "Не поддерживается"
 
 #: data/ui/mainwindow.ui:127
 msgid "Hardcoded"
-msgstr ""
+msgstr "Закодирован"
 
 #: data/icon-requests.desktop.in:4
 msgid "Missing Icon Requests"
